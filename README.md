@@ -1,7 +1,1 @@
-# Devops-poc
-# Devops-poc
-# Devops-poc
-# Devops-poc
-# Devops-poc
-# Devops-poc
-# Devops-poc
+I am developing a Jenkins pipeline for develoying terraform code in GCP
