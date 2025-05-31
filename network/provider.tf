@@ -5,6 +5,9 @@ terraform {
       version = "6.37.0"
     }
   }
+  backend "gcs" {
+    bucket = "terraform-state-storage-devops-poc"
+  }
 }
 
 provider "google" {
