@@ -1,7 +1,7 @@
 # Provide the machine  type details  which you wanted to use in vm
 
 variable "machine_type" {
-  default = "e2-small"
+  default = "e2-medium"
 }
 
 # Provide zone name in which you  want  to create vm
